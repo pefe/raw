@@ -1,4 +1,4 @@
-0;14:00;10:00;10;
+0;15:00;10:00;10;
 
 tem 4 partes, o 0 para limpar, a 1a a 2a horas, e a duracao em minutos 
 em 16-08 os minutos nas horas de inicio ainda eram ignorados
