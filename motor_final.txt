@@ -1,0 +1,5 @@
+0;14:00;10:00;10;
+
+tem 4 partes, o 0 para limpar, a 1a a 2a horas, e a duracao em minutos 
+em 16-08 os minutos nas horas de inicio ainda eram ignorados
+alterada as 22:37 de 19/4/2026 para verificar quando altera no thg 
